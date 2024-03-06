@@ -118,4 +118,4 @@ Puis cet après-midi, moi et mes camarades nous nous sommes répartis les taches
 Mais durant la montage pour faire fonctionner le laser, je me suis rendu compte que les files du laser sont très fines et fragiles. Pour compenser ce problème, j'ai soudé ces files avec d'autres files plus solides.
 
 ![Cover](https://github.com/Midza21/iliaes_p1.github.io/assets/99647643/6ad3b04e-cd2d-428d-852e-4fdbbd2798c5) 
-![cover]
+![Cover](https://github.com/Midza21/iliaes_p1.github.io/assets/99647643/6ad3b04e-cd2d-428d-852e-4fdbbd2798c5)
