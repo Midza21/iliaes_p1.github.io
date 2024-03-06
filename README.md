@@ -113,7 +113,7 @@ Après cela, j'ai commencé un début de maquette en fin de journée que j'ai pa
 
 Le jour suivant, j'ai repris mon travail sur la maquette avec tts mes collègues, puis une fois la maquette du terrain du baby-foot terminé, j'ai conçu une maquette de ce que donnerait le kit sur un cage (j'ai mis pour l'instant que l'écran).
 
-!(cover)([BabyfootREADME1.md](https://github.com/Midza21/iliaes_p1.github.io/edit/main/babyfootREADME.md)
+![cover]([BabyfootREADME1.md](https://github.com/Midza21/iliaes_p1.github.io/edit/main/babyfootREADME.md)
 !(cover)([BabyfootREADME1.md](https://github.com/Midza21/iliaes_p1.github.io/edit/main/babyfootREADME1.md)
 !(cover)([BabyfootREADME1.md](https://github.com/Midza21/iliaes_p1.github.io/edit/main/babyfootREADME2.md)
 !(cover)([BabyfootREADME1.md](https://github.com/Midza21/iliaes_p1.github.io/edit/main/babyfootREADME3.md)
