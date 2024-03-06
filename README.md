@@ -117,5 +117,5 @@ Le jour suivant, j'ai repris mon travail sur la maquette avec tts mes collègues
 Puis cet après-midi, moi et mes camarades nous nous sommes répartis les taches sur la partie électronique du babyfoot. Pour ma part j'ai choisi de faire la parti de la programmation du laser avec la XIAOESP32 afin qu'il puisse détecter un objet qu'il traverse.
 Mais durant la montage pour faire fonctionner le laser, je me suis rendu compte que les files du laser sont très fines et fragiles. Pour compenser ce problème, j'ai soudé ces files avec d'autres files plus solides.
 
-![cover](https://github.com/Midza21/iliaes_p1.github.io/edit/main/BabyfootREADME1.md) 
+![Cover](https://github.com/Midza21/iliaes_p1.github.io/edit/main/BabyfootREADME1.md) 
 ![cover]
