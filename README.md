@@ -101,6 +101,7 @@ Par la suite, nous nous sommes répartis les taches et pour ma part, j'avais dé
 
 #   (05/03/2024 - 08/03/2024) Semaine 4 :
 
+// 05-03-2024
 Cette semaine, je me suis tt d'abord consacrée à la recherche d'une idée prototypage du kit sur le babyfoot, dont mon idée à été de crée un kit en plusieurs partie, avec le panneau des "sponsors" coupé en 4 partie,
 puis par dessus on clipsera un autre kit au dessus des cages qui comprend 2 hauts-parleurs, un écran ainsi que le capteur infrarouge.
 
@@ -112,5 +113,8 @@ Après cela, j'ai commencé un début de maquette en fin de journée que j'ai pa
 //06-03-2024
 
 Le jour suivant, j'ai repris mon travail sur la maquette avec tts mes collègues, puis une fois la maquette du terrain du baby-foot terminé, j'ai conçu une maquette de ce que donnerait le kit sur un cage (j'ai mis pour l'instant que l'écran).
+
+Puis cet après-midi, moi et mes camarades nous nous sommes répartis les taches sur la partie électronique du babyfoot. Pour ma part j'ai choisi de faire la parti de la programmation du laser avec la XIAOESP32 afin qu'il puisse détecter un objet qu'il traverse.
+Mais durant la montage pour faire fonctionner le laser, je me suis rendu compte que les files du laser sont très fines et fragiles. Pour compenser ce problème, j'ai soudé ces files avec d'autres files plus solides.
 
 ![cover](https://github.com/Midza21/iliaes_p1.github.io/edit/main/babyfootREADME1.md) 
