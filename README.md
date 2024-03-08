@@ -110,12 +110,19 @@ Après mur réflexion avec mes camarades, on a décidé d'utiliser l'écran tact
 
 Après cela, j'ai commencé un début de maquette en fin de journée que j'ai pas pu finir par manque de temps.
 
-//06-03-2024
+// 06-03-2024
 
 Le jour suivant, j'ai repris mon travail sur la maquette avec tts mes collègues, puis une fois la maquette du terrain du baby-foot terminé, j'ai conçu une maquette de ce que donnerait le kit sur un cage (j'ai mis pour l'instant que l'écran).
 
 Puis cet après-midi, moi et mes camarades nous nous sommes répartis les taches sur la partie électronique du babyfoot. Pour ma part j'ai choisi de faire la parti de la programmation du laser avec la XIAOESP32 afin qu'il puisse détecter un objet qu'il traverse.
 Mais durant la montage pour faire fonctionner le laser, je me suis rendu compte que les files du laser sont très fines et fragiles. Pour compenser ce problème, j'ai soudé ces files avec d'autres files plus solides.
 
-![Cover](https://github.com/Midza21/iliaes_p1.github.io/assets/99647643/6ad3b04e-cd2d-428d-852e-4fdbbd2798c5) 
 ![Cover](https://github.com/Midza21/iliaes_p1.github.io/assets/99647643/6ad3b04e-cd2d-428d-852e-4fdbbd2798c5)
+
+// 07-03-2024
+
+// 08-03-2024
+
+Aujourd'hui, j'ai commencé agrandir l'axe de mon prototype pour le laser car il ne rentrait pas dedans. Puis ensuite, j'ai pu finir de souder le fil de l'analog sur la photorésistance et la résistance. Une fois que j'avais fini de les souder, j'ai testé la photorésistance sur une Arduino Uno, dans son support dans le prototype, avec le laser pile en face.
+
+Une fois le test réussi, j'ai testé mon code sur le XIAO ESP32S3 et cela à fonctionner. Une ce test fait, j'ai aidé mon camarade Saïd a fini régler des problèmes liées à ESP32 avec les LED. 
