@@ -125,4 +125,18 @@ Mais durant la montage pour faire fonctionner le laser, je me suis rendu compte 
 
 Aujourd'hui, j'ai commencé agrandir l'axe de mon prototype pour le laser car il ne rentrait pas dedans. Puis ensuite, j'ai pu finir de souder le fil de l'analog sur la photorésistance et la résistance. Une fois que j'avais fini de les souder, j'ai testé la photorésistance sur une Arduino Uno, dans son support dans le prototype, avec le laser pile en face.
 
-Une fois le test réussi, j'ai testé mon code sur le XIAO ESP32S3 et cela à fonctionner. Une ce test fait, j'ai aidé mon camarade Saïd a fini régler des problèmes liées à ESP32 avec les LED. 
+Une fois le test réussi, j'ai testé mon code sur le XIAO ESP32S3 et cela à fonctionner. Une ce test fait, j'ai aidé mon camarade Saïd a fini régler des problèmes liées à ESP32 avec les LED sur son pc. 
+
+<!------------------------------------------------------ Montage Babyfoot et de la partie électro ------------------------------------------------->
+
+#   (26/03/2024 - 28/03/2024) Semaine 5 :
+
+// 26/03/2024
+Aujourd'hui, j'ai repris ma partie sur l'allumage des LED quand la balle traverse un laser, avec la phase de test cette fois sur mon pc avec tt d'abord des LED fonctionnel, cette étape m'a pris tt la matinée car j'ai eu des difficultés sur le branchement des LED ainsi que sur le pin a ciblé de led.
+
+L'après-midi, j'y ai consacré l'entièreté à tester d'autres LED dont l'aspect était beaucoup mieux, puis après de nombreux tests je n'ai fini pas pu les faire fonctionner, car j'ai eu beaucoup de difficulté sur le branchage de des led ainsi que sur la pin a ciblé.
+
+// 27/03/2024
+Aujourd'hui, j'ai repris mon travail sur le test d'autres led mais, malheureusement je n'ai pas pu les faire fonctionner car l'ESP32 a fini par griller à cause de cette dernière mais aussi par la complexité à la faire fonctionner. Donc c'est pour cela que je me suis rabbatu sur l'essentiel à savoir faire transiter les données du buts vers l'appli via le Wifi.
+
+L'après midi, j'ai continué dessus mais je n'ai pas pu le finir et j'étais meme proche du but. Malheureusement cela est du, car j'ai eu beaucoup d'erreur de code sur Arduino.
